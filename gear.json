@@ -1,5 +1,11 @@
 [
   {
+    "title": "Coming Soon",
+    "desc": "We are currently securing exclusive gear deals. Check back soon!",
+    "icon": "hourglass_empty",
+    "url": ""
+  },
+  {
     "title": "Thermal Scopes",
     "desc": "AGM, Pulsar, and Bering Optics.",
     "icon": "camera",
