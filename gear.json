@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Thermal Scopes",
+    "desc": "AGM, Pulsar, and Bering Optics.",
+    "icon": "camera",
+    "url": "https://your-affiliate-link-here.com"
+  },
+  {
+    "title": "Night Vision",
+    "desc": "PVS-14, clip-ons, and digital NV.",
+    "icon": "visibility",
+    "url": "https://your-affiliate-link-here.com"
+  },
+  {
+    "title": "Electronic Callers",
+    "desc": "FoxPro & Icotec setups.",
+    "icon": "speaker",
+    "url": "https://your-affiliate-link-here.com"
+  },
+  {
+    "title": "Tripods and Mounts",
+    "desc": "Stable shooting platforms.",
+    "icon": "adjust",
+    "url": "https://your-affiliate-link-here.com"
+  },
+  {
+    "title": "Suppressors",
+    "desc": "Hearing protection and reduced recoil.",
+    "icon": "volume_off",
+    "url": "https://your-affiliate-link-here.com"
+  }
+]
