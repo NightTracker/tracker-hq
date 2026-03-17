@@ -1,9 +1,9 @@
 [
   {
-    "title": "Submit Your Best Hunting Photo!",
+    "title": "Welcome to Tracker HQ",
     "date": "Pinned",
-    "message": "Submit your best hunting photo for a chance to be featured in the app!",
-    "image_url": "https://night-tracker.s3.us-east-2.amazonaws.com/20251222_214135.jpg",
+    "message": "This is where you'll find the latest updates, hunting tips, and exclusive gear drops. Good luck out there tonight.",
+    "image_url": "https://night-tracker.s3.us-east-2.amazonaws.com/hq+photo+1.jpg",
     "link": ""
   },
   {
@@ -14,10 +14,10 @@
     "link": ""
   },
   {
-    "title": "Welcome to Tracker HQ",
-    "date": "February 20, 2026",
-    "message": "This is where you'll find the latest updates, hunting tips, and exclusive gear drops. Good luck out there tonight.",
-    "image_url": "https://night-tracker.s3.us-east-2.amazonaws.com/hq+photo+1.jpg",
+    "title": "Submit Your Best Hunting Photo!",
+    "date": "March 10, 2026",
+    "message": "Submit your best hunting photo for a chance to be featured in the app!",
+    "image_url": "https://night-tracker.s3.us-east-2.amazonaws.com/20251222_214135.jpg",
     "link": ""
   }
 ]
