@@ -19,5 +19,19 @@
     "message": "Submit your best hunting photo for a chance to be featured in the app!",
     "image_url": "https://night-tracker.s3.us-east-2.amazonaws.com/20251222_214135.jpg",
     "link": ""
+  },
+  {
+    "title": "Submit Your Best Hunting Photo!",
+    "date": "March 10, 2026",
+    "message": "Thanks Caleb for submitting your photo!",
+    "image_url": "https://night-tracker.s3.us-east-2.amazonaws.com/Caleb_W.jpg",
+    "link": ""
+  },
+  {
+    "title": "Submit Your Best Hunting Photo!",
+    "date": "March 10, 2026",
+    "message": "Congrats Darren on the double!",
+    "image_url": "https://night-tracker.s3.us-east-2.amazonaws.com/Darren_B.jpg",
+    "link": ""
   }
 ]
