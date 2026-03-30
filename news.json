@@ -54,5 +54,12 @@
     "message": "Thanks Caleb C for submitting this cool photo!",
     "image_url": "https://night-tracker.s3.us-east-2.amazonaws.com/Caleb.jpg",
     "link": ""
+  },
+  {
+    "title": "Featured Photo",
+    "date": "March 30, 2026",
+    "message": "Thanks Josh for submitting this great photo!",
+    "image_url": "https://night-tracker.s3.us-east-2.amazonaws.com/Josh.jpg",
+    "link": ""
   }
 ]
