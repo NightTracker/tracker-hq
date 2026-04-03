@@ -1,16 +1,16 @@
 [
   {
-    "title": "Welcome to Tracker HQ!",
-    "date": "Pinned Post",
-    "message": "This is where you'll find the latest updates, hunting tips, and exclusive gear drops. Good luck out there tonight.",
-    "image_url": "https://night-tracker.s3.us-east-2.amazonaws.com/hq+photo+1.jpg",
-    "link": ""
-  },
-  {
     "title": "Major App Update Deployed",
     "date": "April 3, 2026",
     "message": "Update your app from the app store to check out the new features!",
     "image_url": "https://night-tracker.s3.us-east-2.amazonaws.com/mapupdate.jpg",
+    "link": ""
+  },
+  {
+    "title": "Welcome to Tracker HQ!",
+    "date": "Pinned Post",
+    "message": "This is where you'll find the latest updates, hunting tips, and exclusive gear drops. Good luck out there tonight.",
+    "image_url": "https://night-tracker.s3.us-east-2.amazonaws.com/hq+photo+1.jpg",
     "link": ""
   },  
   {
