@@ -7,10 +7,10 @@
     "link": ""
   },
   {
-    "title": "Major App Update Incoming",
-    "date": "March 30, 2026",
-    "message": "We are implementing many changes based on user feedback and should have a large update ready within a week. This includes a brand new satellite map tab with pins!",
-    "image_url": "https://night-tracker.s3.us-east-2.amazonaws.com/Night+Tracker+Promo+Image.jpg",
+    "title": "Major App Update Deployed",
+    "date": "April 3, 2026",
+    "message": "Update your app from the app store to check out the new features!",
+    "image_url": "https://night-tracker.s3.us-east-2.amazonaws.com/mapupdate.jpg",
     "link": ""
   },  
   {
@@ -60,6 +60,13 @@
     "date": "March 30, 2026",
     "message": "Thanks Josh for submitting this great photo!",
     "image_url": "https://night-tracker.s3.us-east-2.amazonaws.com/Josh.jpg",
+    "link": ""
+  },
+  {
+    "title": "Featured Photo",
+    "date": "April 3, 2026",
+    "message": "Thanks John for the photo!",
+    "image_url": "https://night-tracker.s3.us-east-2.amazonaws.com/John.jpg",
     "link": ""
   }
 ]
