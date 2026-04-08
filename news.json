@@ -43,6 +43,13 @@
   },
   {
     "title": "Featured Photo",
+    "date": "April 7, 2026",
+    "message": "Such a cool photo submitted by Dave!",
+    "image_url": "https://night-tracker.s3.us-east-2.amazonaws.com/Dave.jpeg",
+    "link": ""
+  },
+  {
+    "title": "Featured Photo",
     "date": "March 23, 2026",
     "message": "Thanks Andrew for submitting your photo!",
     "image_url": "https://night-tracker.s3.us-east-2.amazonaws.com/Andrew.jpg",
